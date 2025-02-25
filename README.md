@@ -1,2 +1,2 @@
 # project1
-Building a Foundation
+Building the first GitHub repository
